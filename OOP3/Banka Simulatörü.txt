@@ -1,0 +1,4 @@
+Burada bir bankada belkide yüzlerce olabilecek kredi türlerine göre yapılan işlemleri simule ettik.
+Spagetti koddan uzaklaşıp tamamayıyla solid programlama tekniklerine 
+uygun hareket edillerek interface kavramının bankacılık gibi bir sektörde gerçek hayatta 
+nasıl kullanıldığını deneyimleyerek öğrenmiş olduk.
